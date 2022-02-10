@@ -124,7 +124,7 @@ p {
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/*sets heading placement and wording size*/
  .online-reputation-management h2,
  .social-media-marketing h2,
  .search-engine-optimization h2 {
@@ -133,7 +133,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*sets footing size and wording style */
 .footer {
     padding: 30px;
     clear: both;
